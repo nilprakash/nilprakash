@@ -1,4 +1,5 @@
-git clone https://github.com/nilprakash/extendeasi.git
+git clone https://github.com/nilprakash/customers.git
+<br/>git clone https://github.com/nilprakash/extendeasi.git
 <br/>git clone https://github.com/nilprakash/trading.git
 <br/>git clone https://github.com/nilprakash/commons.git
 <br/>git clone https://github.com/nilprakash/erp.git
